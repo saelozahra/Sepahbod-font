@@ -1,0 +1,15 @@
+{
+  "name": "sepahbod-font",
+  "homepage": "https://github.com/saelozahra/Sepahbod-font/tree/master",
+  "version": "1.0.0",
+  "_release": "1.0.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v1.0.0",
+    "commit": "1502c15e5609595ae2a6612383e35f36dcbacafc"
+  },
+  "_source": "https://github.com/saelozahra/Sepahbod-font.git",
+  "_target": "^1.0.0",
+  "_originalSource": "sepahbod-font",
+  "_direct": true
+}
