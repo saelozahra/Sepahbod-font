@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'Sepahbod';
+  src: url('sepahbod-n.eot'); /* IE۹ Compat Modes */
+  src: url('sepahbod-n.eot?#iefix') format('embedded-opentype'), /* IE۶-IE۸ */
+         url('sepahbod-n.woff۲') format('woff۲'), /* Super Modern Browsers */
+         url('sepahbod-n.woff') format('woff'), /* Pretty Modern Browsers */
+         url('sepahbod-n.ttf')  format('truetype'), /* Safari, Android, iOS */
+         url('sepahbod-n.svg#svgFontName') format('svg'); /* Legacy iOS */
+}
